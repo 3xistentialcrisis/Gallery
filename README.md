@@ -43,10 +43,10 @@ cd Gallery pip install -r requirements.txt
 ```
 ##### Install and activate Virtual  
  ```bash 
-- python3 -m venv virtual 
+python3 -m venv virtual 
 ```  
 ```bash 
-- source virtual/bin/activate 
+source virtual/bin/activate 
 ```
 
 ##### Install Dependencies  
@@ -93,4 +93,4 @@ Open the application on your browser `127.0.0.1:8000`.
 If you have any question or contributions, please email the administrator at [admin@gallery.com]  
 
 ## License 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/3xistentialcrisis/gallery/blob/master/LICENSE)
+[![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/3xistentialcrisis/gallery/blob/master/LICENSE)
