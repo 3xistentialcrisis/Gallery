@@ -84,13 +84,13 @@ Open the application on your browser `127.0.0.1:8000`.
 * Html and CSS (Bootstrap)
   
 ## Known Bugs  
-* There are no known bugs at the time of deployment of this application 
+There are no known bugs at the time of deployment of this application 
   
 ## CodeBeat
-[![codebeat badge](https://codebeat.co/badges/61881488-2da3-4522-be01-0226f8d1a6c6)](https://codebeat.co/projects/github-com-3xistentialcrisis-gallery-master)
-
-## Contact Information   
-If you have any question or contributions, please email the administrator at [admin@gallery.com]  
+[![codebeat badge](https://codebeat.co/badges/61881488-2da3-4522-be01-0226f8d1a6c6)](https://codebeat.co/projects/github-com-3xistentialcrisis-gallery-master) 
 
 ## License 
 [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/3xistentialcrisis/gallery/blob/master/LICENSE)
+
+## Contact Information   
+If you have any question or contributions, please email the administrator at [administrator@gallery.com] 
