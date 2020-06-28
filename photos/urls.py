@@ -1,8 +1,8 @@
-from django.conf.urls import url
+from django.conf.urls import url, include
 from . import views
 
 app_name = 'photos'
 
 urlpatterns = [
-    url(r'^photos/', views.index, name='index')
+    url('^$', views.index, name='index')
 ]
