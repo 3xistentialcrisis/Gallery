@@ -6,3 +6,78 @@ body{
     background-position:center;
     background-size:cover;
 }
+
+h2 {
+    color:white;
+    margin-top:2%;
+    font-size:35px;
+    font-family: 'Special Elite', cursive;
+}
+
+h3{
+    color:white;
+    font-family: 'Special Elite', cursive;
+}
+
+.boded{
+background-image:url(/static/images/bg.jpeg);
+padding-top:2%;
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+}
+
+.modalcard{
+    background-color:rgba(10,10,10,0.8);
+    color:white;
+    padding:3%;
+    border:none;
+}
+
+.overlay{
+margin:0;
+padding:0;
+background-color:rgba(49, 83, 15,0.3);
+}
+
+.imagea{
+margin-top:34%;
+font-size:45px;
+font-weight:bolder;
+}
+
+.image{
+    font-family: 'Special Elite', cursive;
+    margin-bottom:18%;
+    
+}
+
+.imgdesc{
+    font-family: 'Vollkorn', serif;
+}
+
+.cat{
+    float:center;
+    background:gray;
+    padding:4px;
+    border-radius:6px;
+}
+
+#btn{
+    margin-right:6px;
+}
+
+#found{
+    margin-bottom:3%;
+}
+
+#imageheader{
+    font-family: 'Yeseva One', cursive;
+}
+
+#locations{
+    color:white;
+    font-family: 'Special Elite', cursive;
+}
+
+
