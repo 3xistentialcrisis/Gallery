@@ -34,7 +34,7 @@ SECRET_KEY = 'yq4^@au&my$$z(jqt%1b-x1=8e-5$q6e@w0)^rhivilukl!983'
 # DEBUG = True
 DEBUG = config('DEBUG', default=False, cast=bool)
 
-ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+ALLOWED_HOSTS = []
 
 
 # Application definition
