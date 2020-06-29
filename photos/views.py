@@ -17,13 +17,13 @@ def search_results(request):
         searched_images = Image.search_by_category(category)
         message = f"{category}"
         print(searched_images)
-        return render(request, 'pictures/search_results.html', {"message": message, "images": searched_images})
+        return render(request, 'photos/search_results.html', {"message": message, "images": searched_images})
     else:
         message = "You haven't searched for any category"
-        return render(request, 'pictures/search_results.html', {"message": message})
+        return render(request, 'photos/search_results.html', {"message": message})
 
 #View Image Location
 def image_location(request, location):
     images = Image.filter_by_location(location)
     print(images)
-    return render(request, 'pictures/location.html', {'location_images': images})
+    return render(request, 'photos/location.html', {'location_images': images})
