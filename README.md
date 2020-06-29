@@ -14,11 +14,9 @@ This is a Django personal gallery application that enables you to display your p
  
 <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/landingpage.png" width="900px" height="440px">
  
- ###### Search results
- <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/search.png" width="900px" height="440px"> 
-
+ 
  ###### Image Details 
- <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/images.png" width="900px" height="440px">
+ <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/gallery.png" width="900px" height="440px">
  
 ## User Story  
 This app enables user to:
@@ -64,12 +62,12 @@ python manage.py makemigrations album
 ```
 ##### Run the application  
  ```bash 
- python3.8 manage.py runserver 
+ python3 manage.py runserver 
 ``` 
 
 ##### Testing the application  
  ```bash 
- python3.8 manage.py test 
+ python3 manage.py test 
 ```
 Open the application on your browser `127.0.0.1:8000`.  
   
@@ -79,8 +77,8 @@ Open the application on your browser `127.0.0.1:8000`.
 * [Python3.8](https://www.python.org/)  
 * [Django 1.11.17](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
-* Postgres
-* Pip
+* [Postgres](https://www.postgresql.org/)
+* [Pip](https://pypi.org/project/pip/)
 * Html and CSS (Bootstrap)
   
 ## Known Bugs  
