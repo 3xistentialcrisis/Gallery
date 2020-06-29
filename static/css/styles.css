@@ -1,6 +1,6 @@
 body{
     scroll-behavior: smooth;
-    background-image:url(/static/images/g.jpg);
+    /* background-image:url(/static/images/background.jpg); */
     background-attachment:fixed;
     background-repeat:no-repeat;
     background-position:center;
