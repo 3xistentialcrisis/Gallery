@@ -14,9 +14,12 @@ This is a Django personal gallery application that enables you to display your p
  
 <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/landingpage.png" width="900px" height="440px">
  
- 
- ###### Image Details 
+
+ ###### Images
  <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/gallery.png" width="900px" height="440px">
+
+  ###### Image Details
+ <img src="https://raw.githubusercontent.com/3xistentialcrisis/Gallery/master/static/images/imagedetails.png" width="900px" height="440px">
  
 ## User Story  
 This app enables user to:
